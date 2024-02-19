@@ -53,3 +53,5 @@ Once installed, navigate to any Panopto video page that matches the URL patterns
 4. **Download**: Click the "Download Captions" button to download the captions in the selected language and format.
 
 Note: The script currently has known issues with gathering captions from playlist videos, and this functionality is a work in progress.
+
+[!["Buy Me A Coffee"](https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png)](https://www.buymeacoffee.com/joshuabaca)
